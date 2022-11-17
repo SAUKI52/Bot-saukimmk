@@ -676,7 +676,7 @@ ${symbol2} ${prefix}delete (msg)`
                     {buttonId: `owner`, buttonText: {displayText: 'Owner'}, type: 1}
                 ]
                 let buttonMessage = {
-                    image: { url: 'https://telegra.ph/file/6d3a9d6f88c9d5bbb0330.jpg' },
+                    image: { url: 'https://i.ibb.co/xjZNp1Q/1.jpg' },
                     caption: `${menu}`,
                     footer: `${global.wm}`,
                     buttons: buttons,
@@ -710,7 +710,7 @@ https://danzzapi.xyz (danzz)`
                     {buttonId: `owner`, buttonText: {displayText: 'Owner'}, type: 1}
                 ]
                 let buttonMessage = {
-                    image: { url: 'https://telegra.ph/file/6d3a9d6f88c9d5bbb0330.jpg' },
+                    image: { url: 'https://i.ibb.co/xjZNp1Q/1.jpg' },
                     caption: `${tqto}`,
                     footer: `${global.wm}`,
                     buttons: buttons,
@@ -781,7 +781,7 @@ Ini`
                     {buttonId: `tqto`, buttonText: {displayText: 'Thanks To'}, type: 1}
                 ]
                 let buttonMessage = {
-                    image: { url: 'https://telegra.ph/file/6d3a9d6f88c9d5bbb0330.jpg' },
+                    image: { url: 'https://i.ibb.co/xjZNp1Q/1.jpg' },
                     caption: `${rules}`,
                     footer: `${global.wm}`,
                     buttons: buttons,
@@ -806,7 +806,7 @@ let buttons = [
                     {buttonId: `owner`, buttonText: {displayText: 'Owner'}, type: 1}
                 ]
                 let buttonMessage = {
-                    image: { url: 'https://telegra.ph/file/6d3a9d6f88c9d5bbb0330.jpg' },
+                    image: { url: 'https://i.ibb.co/xjZNp1Q/1.jpg' },
                     caption: `${payment}`,
                     footer: `${global.wm}`,
                     buttons: buttons,
