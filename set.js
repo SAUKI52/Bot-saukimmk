@@ -13,18 +13,18 @@ global.APIKeys = {
 global.apikey = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
 global.apikeyprem = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
 global.apikeyvip = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
-global.namabot = ['SAUKI OFFICIAL']
-global.namaowner = ['SAUKI OFFICIAL']
-global.owner = ['62895357313987','6287778405247']
-global.premium = ['62895357313987','6287778405247']
-global.packname = '© Powered By @Not_Reii'
+global.namabot = ['Fumio-Botz']
+global.namaowner = ['Fumio Dev -Botz']
+global.owner = ['6289513347805','6287778405247']
+global.premium = ['6289513347805','6287778405247']
+global.packname = '© Powered By Fumio X Reii'
 global.author = 'https://danzzapi.xyz'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.prefix = ['']
 global.symbol1 = '•'
 global.symbol2 = '>'
-global.wm = '© Reiinalz'
+global.wm = '© Fumio'
 global.mess = {
     success: 'Success ✓',
     admin: 'Fitur Khusus Admin Group!',
@@ -38,7 +38,7 @@ global.mess = {
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Pukul 00:00 WIB.',
 }
 global.limitawal = {
-	free: "100",
+	free: "50",
     premium: "1000",
     vip: "unlimited"
 }
